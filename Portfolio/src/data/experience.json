@@ -1,0 +1,51 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Cognizant Technology Solutions",
+    "startDate": "Sept, 2018",
+    "endDate": "Oct 2021",
+    "experiences": {
+      "title": "World Bank Group",
+      "description": [
+        "Designed and implemented RESTful APIs for Angular-based management project, reducing workflow time by 50%.",
+        "Standardized UI components, boosting development efficiency by 30%",
+        "Strengthened data security with HTTPS and role-based access controls.",
+        "Optimized performance with Redis integration and caching, reducing page load time by 25%."
+      ],
+      "img": "/images/wbg.png"
+    },
+    "imageSrc": "/images/cts.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Accenture",
+    "startDate": "Oct, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": {
+      "title": "Citi",
+      "description": [
+        "Implemented advanced features like QR-based withdrawals & overseas transaction boosting daily transactions.",
+        "Achieved 80% code coverage with unit and integration testing, reducing UI production issues and enhancing reliability.",
+        "Revamped ATM UIs in Angular using TypeScript, achieving a 42% uplift in user satisfaction."
+      ],
+      "img": "/images/citi.png"
+    },
+    "imageSrc": "/images/accenture.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Accenture",
+    "startDate": "Sep, 2022",
+    "endDate": "Aug, 2023",
+    "experiences": {
+      "title": "UBS",
+      "description": [
+        "Engineered React-based dashboards for data lineage, profiling & enhanced enterprise data visualization, increasing efficiency by 24%.",
+        "Reduced application load time by 10% using optimized GraphQL APIs.",
+        "Diagnosed and resolved system issues, minimizing downtime by 15%."
+      ],
+      "img": "/images/ubs.png"
+    },
+    "imageSrc": "/images/accenture.png"
+  }
+]

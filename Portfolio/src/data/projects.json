@@ -1,0 +1,30 @@
+[
+  {
+    "title": "CitiSoft",
+    "imageSrc": "/images/citisoft.png",
+    "description": "A platform for various vendors & customers to interact & find the product and servises they are looking for.",
+    "skills": ["Django", "python", "postgresql", "HTML", "CSS", "Bootstrap4"],
+    "source": "https://github.com/nandini-dani/citi-soft"
+  },
+  {
+    "title": "Poverty Detection in India Using Machine Learning",
+    "imageSrc": "/images/povertyDetection.png",
+    "description": "Developed an AI-driven classification model (Random Forest, ANN, SVM, KNN) leveraging nightlight satellite data to predict poverty levels in Indian states..",
+    "skills": ["Python", "Jupyter Notebook"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "My Portfolio",
+    "imageSrc": "/images/myPortfolio.png",
+    "description": "This is a project to introduce myself to other Tech-savvy's.",
+    "skills": ["React", "HTML", "CSS"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Cookies- Work In Progres",
+    "imageSrc": "/images/nextWork.png",
+    "description": "This is blog website under progress which empowers me to showcase my articles, paintings & poems to the world. It lets the reader leave a heart or join me in my journey.",
+    "skills": ["MongoDB", "Express", "NodeJs", "React", "HTML", "CSS"],
+    "source": "https://www.github.com"
+  }
+]
